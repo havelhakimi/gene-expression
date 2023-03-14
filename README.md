@@ -1,4 +1,4 @@
-#  Agglomerative based clustering on gene expression dataset
+#  Agglomerative Clustering Analysis on gene expression dataset
 This a solution notebook to an assignment question given in a Data Mining graduate course. Each code block is accompanied by relevant analysis wherever required. </br>
 Dataset link: https://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq </br>
 Broadly, the following steps have been performed in this solution notebook:<ul>
